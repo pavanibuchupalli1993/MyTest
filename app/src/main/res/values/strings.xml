@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="settings_title">Profile</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="dob_label">Enter Date of Birth</string>
+    <string name="save">save</string>
+    <string name="revert">revert</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Enter Email</string>
+        <string name="prefered_loc">Preferred Locations</string>
+</resources>
